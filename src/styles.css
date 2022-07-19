@@ -1,0 +1,191 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.navbar {
+  background: skyblue;
+}
+.colfont {
+  padding: 0.5rem;
+  color: black;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  background-color: deepskyblue;
+}
+
+.cardtext {
+  padding-top: 1rem;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.5rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+
+  color: black;
+}
+.btn-primary1 {
+  background-color: darkblue;
+  border-radius: 10%;
+  padding: 0.5rem;
+  border-color: green;
+  text-align: center;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  font-size: larger;
+  margin-left: 50%;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.btn-primary2 {
+  background-color: darkblue;
+  border-radius: 10%;
+  padding: 0.5rem;
+  border-color: green;
+  text-align: center;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  font-size: larger;
+
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.btn-primary3 {
+  background-color: darkblue;
+  border-radius: 10%;
+  padding: 0.5rem;
+  border-color: green;
+  text-align: center;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  font-size: larger;
+
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.me-auto {
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
+.head {
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
+.bank {
+  padding-left: 50%;
+  align-items: center;
+  padding-top: 20px;
+  height: 15px;
+  width: 300px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
+.bank-1 {
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+
+  font-size: 30px;
+}
+.card-img {
+  padding-left: 100px;
+}
+.bank-2 {
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+
+  font-size: 25px;
+}
+.alld {
+  border-style: dashed;
+  border-color: darkmagenta;
+  border-width: 5px;
+}
+
+.cardbody {
+  background: skyblue;
+}
+.cre_sub_btn {
+  margin-left: 45%;
+  margin-bottom: 15px;
+  font-size: 20px;
+  background-color: skyblue;
+}
+
+.deposit {
+  border-style: dashed;
+  border-color: darkmagenta;
+  border-width: 5px;
+  border-style: 50px;
+  background: skyblue;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
+
+.mb-1 {
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  font-size: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  color: deeppink;
+}
+.mb-2 {
+  color: crimson;
+  text-align: center;
+}
+.mb-3 {
+  text-align: center;
+  color: deeppink;
+}
+.mb-6 {
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  color: darkgreen;
+}
+.withdraw {
+  border-style: dashed;
+  border-color: darkmagenta;
+  border-width: 5px;
+  border-style: 50px;
+  background: skyblue;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
+
+.mb-2 {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
+.mb-3 {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
+.bg-primary {
+  text-align: center;
+  font-style: italic;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  background-color: darkturquoise;
+}
+.trans {
+  background-color: skyblue;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  font-size: 20px;
+  text-align: center;
+}
+.user {
+  text-align: center;
+}
+.table,
+td,
+th {
+  text-align: center;
+  color: darkmagenta;
+}
+.navbar-brand {
+  color: darkgoldenrod;
+}
